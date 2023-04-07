@@ -60,4 +60,4 @@ export const Logout = styled.button`
     color: ${({ theme }) => theme.COLORS.GRAY_100};
   }
 
-`
+`;
