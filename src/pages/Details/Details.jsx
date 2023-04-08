@@ -3,6 +3,7 @@ import { Container, Links} from "./styles"
 import { Header } from "../../components/Header/Header"
 import { Button } from "../../components/Button/Button"
 import { Section } from "../../components/Section/Section"
+import { Tag } from "../../components/Tag/Tag"
 
 export function Details() {
   return(
@@ -17,8 +18,8 @@ export function Details() {
       </Section>
 
       <Section title="Marcadores">
-        <li>express</li>
-        <li>nodejs</li>
+        <Tag  title="express" />
+        <Tag  title="nodejs" />
       </Section>
 
 
