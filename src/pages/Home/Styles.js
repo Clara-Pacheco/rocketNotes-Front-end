@@ -56,6 +56,20 @@ export const Menu = styled.ul`
 
 grid-area: Menu;
 
+background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
+
+padding-top: 64px;
+text-align: center;
+
+> li {
+  margin-bottom: 24px;
+  
+}
+
+
+
+
+
 
 `;
 export const NewNote = styled.button`
