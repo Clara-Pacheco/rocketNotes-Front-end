@@ -17,6 +17,7 @@ export const Container = styled.div`
   background-color: ${({ theme }) => theme.COLORS.BACKGROUND_800};
 
 `;
+
 export const Brand = styled.div`
 
 grid-area: Brand;
@@ -40,12 +41,14 @@ background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
 }
 
 `;
+
 export const Search = styled.div`
 
 grid-area: Search;
 background-color: yellow;
 
 `;
+
 export const Content = styled.div`
 
 grid-area: Content;
@@ -66,15 +69,27 @@ text-align: center;
   
 }
 
-
-
-
-
-
 `;
+
 export const NewNote = styled.button`
 
 grid-area: NewNote;
-background-color: pink;
+
+background-color: ${({ theme }) => theme.COLORS.ORANGE};
+border: none;
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 8px;
+
+> h1 {
+  font-size: 20px;
+  color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
+}
+
+> svg {
+  font-size: 24px;
+}
 
 `;
