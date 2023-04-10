@@ -7,7 +7,7 @@ export const Container = styled.header`
   width: 100%;
 
   border-bottom-width: 1px;
-  border-bottom-styled: solid;
+  border-bottom-style: solid;
   border-bottom-color: ${({ theme }) => theme.COLORS.BACKGROUND_700};
 
   display: flex;
