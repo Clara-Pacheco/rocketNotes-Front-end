@@ -20,7 +20,24 @@ export const Container = styled.div`
 export const Brand = styled.div`
 
 grid-area: Brand;
-background-color: red;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: ${({ theme }) => theme.COLORS.BACKGROUND_700};
+
+background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
+
+
+> h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: ${({ theme }) => theme.COLORS.ORANGE};
+
+}
 
 `;
 export const Search = styled.div`
@@ -38,7 +55,7 @@ background-color: green;
 export const Menu = styled.ul`
 
 grid-area: Menu;
-background-color: blue;
+
 
 `;
 export const NewNote = styled.button`
