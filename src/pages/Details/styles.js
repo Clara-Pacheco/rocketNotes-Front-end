@@ -9,7 +9,7 @@ import styled from "styled-components";
   grid-template-rows: 105px auto;
   grid-template-areas:
   "header"
-  "content"
+  "content";
 
 `;
 
