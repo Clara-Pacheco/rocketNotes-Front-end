@@ -4,6 +4,7 @@ import { FiPlus} from 'react-icons/fi'
 
 import { Header } from '../../components/Header/Header'
 import { ButtonText } from '../../components/ButtonText/ButtonText'
+import { Input } from '../../components/Input/Input'
 
 export function Home(){
 
@@ -26,7 +27,7 @@ export function Home(){
       </Menu>
 
       <Search>
-
+        <Input />
       </Search>
 
       <Content>
