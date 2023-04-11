@@ -45,7 +45,7 @@ background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
 export const Search = styled.div`
 
 grid-area: Search;
-background-color: yellow;
+
 
 `;
 
