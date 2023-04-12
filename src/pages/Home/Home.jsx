@@ -5,6 +5,8 @@ import { FiPlus, FiSearch} from 'react-icons/fi'
 import { Header } from '../../components/Header/Header'
 import { ButtonText } from '../../components/ButtonText/ButtonText'
 import { Input } from '../../components/Input/Input'
+import { Section } from '../../components/Section/Section'
+import { Note } from '../../components/Note/Note'
 
 export function Home(){
 
@@ -23,7 +25,6 @@ export function Home(){
         <li><ButtonText title="Node" /></li>
         <li><ButtonText title="React" /></li>
       
-
       </Menu>
 
       <Search>
@@ -31,7 +32,28 @@ export function Home(){
       </Search>
 
       <Content>
+        <Section title= "Minhas notas">
+          <Note data={
+            {
+              title: 'React Modal',
+              tags: [
+                {id: '1', name: 'react'}
+              ]
+            }
+          } 
+          />
 
+          <Note data={
+            {
+              title: 'Exemplo de Middleware',
+              tags: [
+                {id: '1', name: 'express'},
+                {id: '2', name: 'nodejs'}
+              ]
+            }
+          } 
+          />
+        </Section>
       </Content>
 
       <NewNote>
