@@ -52,7 +52,8 @@ padding: 64px 64px 0;
 export const Content = styled.div`
 
 grid-area: Content;
-
+padding: 0 64px;
+overflow-y: auto;
 
 `;
 export const Menu = styled.ul`
