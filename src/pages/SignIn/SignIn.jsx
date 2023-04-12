@@ -1,4 +1,4 @@
-import { Container, Form } from './Styles'
+import { Container, Form, Background } from './Styles'
 
 import { Input } from '../../components/Input/Input'
 import { Button } from '../../components/Button/Button'
@@ -28,6 +28,9 @@ export function SignIn() {
         Criar conta
       </a>
   </Form>
+
+  <Background />
+  
   </Container>
  )
 
