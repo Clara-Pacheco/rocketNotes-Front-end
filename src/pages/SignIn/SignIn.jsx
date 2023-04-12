@@ -22,13 +22,11 @@ export function SignIn() {
       placeholder="Senha"
       type="password"
      /> 
-     <Button>
-      Entrar
-     </Button>
+     <Button title="Entrar" />
 
-
-
-
+      <a href='#'>
+        Criar conta
+      </a>
   </Form>
   </Container>
  )
