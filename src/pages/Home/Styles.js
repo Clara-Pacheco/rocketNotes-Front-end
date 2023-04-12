@@ -45,14 +45,14 @@ background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
 export const Search = styled.div`
 
 grid-area: Search;
-
+padding: 64px 64px 0;
 
 `;
 
 export const Content = styled.div`
 
 grid-area: Content;
-background-color: green;
+
 
 `;
 export const Menu = styled.ul`
