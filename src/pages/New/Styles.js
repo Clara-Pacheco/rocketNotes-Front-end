@@ -11,6 +11,11 @@ grid-template-areas:
 "header"
 "content";
 
+main {
+  grid-area: content;
+  overflow-y:auto;
+}
+
 .tags {
   display: flex;
   align-items: center;
