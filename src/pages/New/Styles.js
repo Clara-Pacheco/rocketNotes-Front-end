@@ -11,6 +11,13 @@ grid-template-areas:
 "header"
 "content";
 
+.tags {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 `;
 
 export const Form = styled.form`
