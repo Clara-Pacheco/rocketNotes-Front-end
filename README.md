@@ -12,61 +12,67 @@
 
 <br>
 
-## 💻 Sobre o desafio
+## 💻 About the challenge
 
-Principais pontos abordados nesse desafio:
+Main points addressed in this challenge:
 
 - HTML
 - JavaScript (ES6 Modules)
 - ReactJs
-- Vite
+- vite
 - Styled Components
-- React Router
-- Git e GitHub
+- react router
+- Git and GitHub
 - Vercel
 
 <br>
 
-## 💻 Projeto
+## 💻 Project
 
-O resultado final desse desafio deve ser algo em torno de:
+The end result of this challenge should be something around:
 
 ![Project´s preview]()
 
-[Clique aqui para acessar](https://rocket-notes-phi.vercel.app/)
+<br>
+
+![Project´s preview]()
+
+[Click here to access](https://rocket-notes-phi.vercel.app/)
 
 <br>
 
-## Funções
+## Functions
 
-- Criar conta
-- Editar senha do perfil
-- Criar notas com marcadores, links úteis, título e observações.
-
-<br>
-
-## 🧪 Tecnologias | ReactJs 
+- Create an account
+- Edit profile password
+- Create notes with bookmarks, useful links, title and notes. 
 
 <br>
 
-##  📕 Sobre  
+## 🧪 Technologies | ReactJs 
 
-<p>Este é um projeto desenvolvido em treinamento, juntamente com a <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀  no decorrer do programa <b>Explorer</b>.  
+![ReactJS]()
+
+<br>
+
+##  📕 About  
+
+<p>This is a project developed together with <a href="https://www.rocketseat.com.br">Rocketseat</a> 🚀 during the <b>Explorer FullStack program</b>.  
 
 <br>
 <br>
 
-### Informações  
+### Information 
 
-📅 **Início:** 06.04.2023
+📅 **Start:** 06.04.2023
 
-📅 **Conclusão:** 13.04.2023
+📅 **End:** 13.04.2023
 
-🕛 **Status:** Trabalhando no backend da aplicação 🛠
+🕛 **Status:** Working on the backend of the application 🛠
 
 🌎 **Result Preview:** https://my-rocket-notes.vercel.app/
 <div align="center">
-Feito com 💜 por Clara 🚀
+Made with 💜 by Clara 🚀
 </div>
 </p>
 
