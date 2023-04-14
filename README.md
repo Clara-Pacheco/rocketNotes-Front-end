@@ -41,7 +41,7 @@ The end result of this challenge should be something around:
 
 <br>
 
-## Functions
+## 💻 Functions
 
 - Create an account
 - Edit profile password
