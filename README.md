@@ -31,11 +31,11 @@ Main points addressed in this challenge:
 
 The end result of this challenge should be something around:
 
-![Project´s preview]()
+![Project´s preview](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/preview-authRoutes.gif)
 
 <br>
 
-![Project´s preview]()
+![Project´s preview](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/preview-appRoutes.gif)
 
 [Click here to access](https://rocket-notes-phi.vercel.app/)
 
@@ -51,7 +51,7 @@ The end result of this challenge should be something around:
 
 ## 🧪 Technologies | ReactJs 
 
-![ReactJS]()
+![ReactJS](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/react.png)
 
 <br>
 
