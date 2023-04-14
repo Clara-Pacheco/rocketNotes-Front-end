@@ -51,7 +51,12 @@ The end result of this challenge should be something around:
 
 ## 🧪 Technologies | ReactJs 
 
-![ReactJS](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/logo-react-512.png)
+<div align="center">
+
+  ![ReactJS](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/logo-react-512.png)
+
+</div>
+
 
 <br>
 
@@ -71,6 +76,9 @@ The end result of this challenge should be something around:
 🕛 **Status:** Working on the backend of the application 🛠
 
 🌎 **Result Preview:** https://my-rocket-notes.vercel.app/
+
+<br> 
+
 <div align="center">
 Made with 💜 by Clara 🚀
 </div>
