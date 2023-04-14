@@ -1,5 +1,3 @@
-# rocketNotes-Front-end
-
 <div align="center">
 <img width="220px" src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" alt="">&nbsp;&nbsp;&nbsp;
 <img width="150px" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75"  alt="">
@@ -39,26 +37,30 @@ O resultado final desse desafio deve ser algo em torno de:
 
 <br>
 
+## 📜 Descrição 
+
+
+Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de Front-End, utilizando React e Vite. 🚀
+
+<br>
+
 ## Funções
 
 - Criar conta
 - Editar senha do perfil
 - Criar notas com marcadores, links úteis, título e observações.
 
-## 🧪 Tecnologias | HTML , CSS e Javascript  
+<br>
 
+## 🧪 Tecnologias | ReactJs 
 
-## 📜 Descrição 
-
-
-Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de Front-End, utilizando React e Vite. 🚀
-
+<br>
 
 ##  📕 Sobre  
 
-<p>Este é um projeto desenvolvido em treinamento, juntamente com a <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀  
-no decorrer do programa <b>Explorer</b>.  
+<p>Este é um projeto desenvolvido em treinamento, juntamente com a <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀  no decorrer do programa <b>Explorer</b>.  
 
+<br>
 <br>
 
 ### Informações  
