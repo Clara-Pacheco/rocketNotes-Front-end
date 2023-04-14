@@ -51,7 +51,7 @@ The end result of this challenge should be something around:
 
 ## 🧪 Technologies | ReactJs 
 
-![ReactJS](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/react.png)
+![ReactJS](https://github.com/Clara-Pacheco/rocketNotes-Front-end/blob/main/src/assets/logo-react-512.png)
 
 <br>
 
