@@ -64,8 +64,7 @@ O resultado final desse desafio deve ser algo em torno de:
 
 🕛 **Status:** Trabalhando no backend da aplicação 🛠
 
-🌎 **Result Preview:** https://rocket-notes-phi.vercel.app/
-
+🌎 **Result Preview:** https://my-rocket-notes.vercel.app/
 <div align="center">
 Feito com 💜 por Clara 🚀
 </div>
