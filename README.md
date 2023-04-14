@@ -37,39 +37,12 @@ O resultado final desse desafio deve ser algo em torno de:
 
 <br>
 
-<<<<<<< HEAD
-=======
-## 📜 Descrição 
-
-
-Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de Front-End, utilizando React e Vite. 🚀
-
-<br>
-
->>>>>>> 5906c3bb18d2b3d2ee3e14d33efa3bde5920e814
 ## Funções
 
 - Criar conta
 - Editar senha do perfil
 - Criar notas com marcadores, links úteis, título e observações.
 
-<<<<<<< HEAD
-## 🧪 Tecnologias | HTML , CSS e Javascript  
-
-
-## 📜 Descrição 
-
-
-Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de Front-End, utilizando React e Vite. 🚀
-
-
-##  📕 Sobre  
-
-<p>Este é um projeto desenvolvido em treinamento, juntamente com a <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀  
-no decorrer do programa <b>Explorer</b>.  
-
-<br>
-=======
 <br>
 
 ## 🧪 Tecnologias | ReactJs 
@@ -82,7 +55,6 @@ no decorrer do programa <b>Explorer</b>.
 
 <br>
 <br>
->>>>>>> 5906c3bb18d2b3d2ee3e14d33efa3bde5920e814
 
 ### Informações  
 
